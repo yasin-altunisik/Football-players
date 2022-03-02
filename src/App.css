@@ -1,0 +1,11 @@
+.App {
+  background-color: lightgrey;
+  height: fit-content;
+}
+
+#header {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  padding-top: 50px;
+}

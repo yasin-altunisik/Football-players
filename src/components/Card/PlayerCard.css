@@ -1,0 +1,23 @@
+img {
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10%;
+  }
+  
+  .player {
+    width: fit-content;
+    height: fit-content;
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+    border-style: solid;
+    border-radius: 10% ;
+    border-color: brown;
+    padding: 10px;
+    background-color: white;
+  }
+
+  p {
+    font-weight: bold;
+  }
