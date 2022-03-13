@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div id="header">TÜRK MİLLİ TAKIMI OYUNCULARI</div>
       <center>
-        {data.map((player) => (
+        {data.map((player) => ( 
           <PlayerCard data={player} />
         ))}
       </center>
